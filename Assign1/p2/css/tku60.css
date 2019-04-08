@@ -1,0 +1,32 @@
+#container {
+    width: 630px;
+    height: 630px;
+    border: 5px purple solid;
+}
+
+#player {
+    width: 630px;
+    height: 50px;
+    background: palegoldenrod;
+    float: left;
+}
+#header {
+    width: 630px;
+    height: 100px;
+    background-color: darkkhaki;
+    float: left;
+    text-align: center;
+}
+
+#aside {
+    width: 630px;
+    height:480px;
+    background-color: rgb(24, 110, 7);
+    float: right;
+}
+ul li{
+    list-style-type: none;
+    float:left;
+    margin : 0px 10px;
+   
+}

@@ -1,0 +1,114 @@
+/* CSS Document */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#content {
+    height: 550px;
+    width: 100%;
+}
+
+#left_content {
+    height: 500px;
+    width: 20%;
+    float: left;
+}
+
+#right_content {
+    height: 500px;
+    width: 80%;
+    float: right;
+}
+
+#logo {
+    height: 100px;
+    width: 100%;
+    background: darkcyan;
+    float: left;
+    text-align: center;
+}
+
+aside {
+    height: 400px;
+    width: 100%;
+    background: darkgoldenrod;
+    float: left;
+    text-align: center;
+}
+
+nav {
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    background: gray;
+    text-align: center;
+    color: aliceblue;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background: darkkhaki;
+    float: right;
+    text-align: center;
+}
+
+article {
+    height: 400px;
+    width: 100%;
+    background: darkolivegreen;
+    float: right;
+    text-align: center;
+}
+
+section {
+    height: 300px;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background: gray;
+    text-align: center;
+    color: aliceblue;
+}
+
+#display {
+    height: 180px;
+    width: 80%;
+    margin: 10px auto;
+    background: darkred;
+    text-align: center;
+    color: black;
+    line-height: 180px;
+}
+
+#pic_container {
+    height: 90px;
+    width: 80%;
+    margin: 10px auto;
+    background: darkkhaki;
+    text-align: left;
+    color: black;
+}
+
+ul li {
+    list-style-type: none;
+    float: left;
+    margin-top:10px;
+    margin-right: 10px;
+    background: darkorange;
+    height: 50px;
+    width: 15%;
+    text-align: center;
+    line-height: 50px;
+}
+
+#clearfix {
+    clear: both;
+}
+
+footer {
+    height: 50px;
+    width: 100%;
+    background: darkmagenta;
+}
